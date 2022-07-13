@@ -1,0 +1,107 @@
+{
+  "About": {
+    "paragraph": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab cum ipsa, modi nemo repudiandae tenetur vitae! Alias aperiam asperiores deleniti, excepturi explicabo fugit impedit perspiciatis quasi reiciendis, rem reprehenderit, vero!",
+
+    "Why": [
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    ],
+    "Why2": [
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Продажа семян зерновых культур",
+      "image": "images/gallery/01-small.jpg"
+    },
+    {
+      "title": "Продажа семян зерновых культур",
+      "image": "images/gallery/02-small.jpg"
+    },{
+      "title": "Продажа семян масляничных культур",
+      "image": "images/gallery/03-small.jpg"
+    },
+    {
+      "title": "Продажа ядохимикатов",
+      "image": "images/gallery/04-small.jpg"
+    },{
+      "title": "Продажа запчастей",
+      "image": "images/gallery/05-small.jpg"
+    },
+    {
+      "title": "Продажа удобрений",
+      "image": "images/gallery/06-small.jpg"
+    },{
+      "title": "Услуги протравки",
+      "image": "images/gallery/07-small.jpg"
+    },
+    {
+      "title": "Продажа топлива и моторных масел",
+      "image": "images/gallery/08-small.jpg"
+    },
+    {
+      "title": "Предоставление логистических услуг",
+      "image": "images/gallery/09-small.jpg"
+    }
+  ],
+  "Team": [
+    {
+      "img": "images/team/02.jpg",
+      "name": "Иркагалиев Данияр Айболатович",
+      "job": "IT"
+    },
+    {
+      "img": "images/team/01.jpg",
+      "name": "Иркагалиев Айболат Ахмадиевич",
+      "job": "Директор"
+    },
+    {
+      "img": "images/team/03.jpg",
+      "name": "Иркагалиев Дияр Айболатович",
+      "job": "Логистика и поддержка морального духа"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "images/testimonials/01.jpg",
+      "text": "\"Мансабын аяқтағаннан кейін фермер болды. ИЯ, тек біздің американдық өнімдеріміз сапалы. Содан кейін маған Ресейдің анасының корешасы көмектесті. Жеткізу маған жаңа үйдің бағасына түседі деп ойладым, бірақ жоқ, бәрі өте арзан.  Қазақ бауырларына рахмет, Евразия агро, рахмет.\"",
+      "name": "Майк Темирбулатов"
+    },
+    {
+      "img": "images/testimonials/02.jpg",
+      "text": "\"After completing my career, I became a farmer. yes, but our American products are lousy in quality. That's where my buddies from Mother Russia helped me. I thought the delivery would cost me the price of a new mansion, but no, everything is very cheap. Thanks to the Kazakh brothers, thanks to Eurasia Agro. \"",
+      "name": "Уил Смит"
+    },
+    {
+      "img": "images/testimonials/03.jpg",
+      "text": "\"Вообще я военный, но выйдя на пенсию хотелось иметь свой домик. Чтоб у речки, и лес рядом. А там и поле недалеко. И на нем выращивать хлеб. Мечтал много, а как вышел на пенсию, купил дом, у речки, и лес рядом, а там и поле. А где все покупать то для выращивания хлеба? Тут то мне и помог Айболат Ахмадиевич и Евразия Агро. Спасибо!\"",
+      "name": "Александр 'Терминатор' Попов"
+    },
+    {
+      "img": "images/testimonials/04.jpg",
+      "text": "\"それは日本語の単なるテキストです。 ここには役に立つものは何もありません。 私は今それを考え出しています。 私は次に何を書くべきか分からない 今、私は翻訳ではなく、このすべてを繰り返します それは日本語の単なるテキストです。ここには何も有用ではありません。私は今それを理解しています。私は次に何を書くべきか分かりません\"",
+      "name": "Хидео Курмангалиев"
+    },
+    {
+      "img": "images/testimonials/05.jpg",
+      "text": "\"Наш район процветает благодаря усилиям Евразии Агро и ее партнеров\"",
+      "name": "Сергей Степанович"
+    },
+    {
+      "img": "images/testimonials/06.jpg",
+      "text": "\"Аграрный сектор еще не занял место, которое должна занимать эта отрасль в целом в экономике страны. Мы являемся специалистами в области выращивания зерна. Казахстан заявил о себе как экспортер зерна во всем мире. Мы можем это. Надо наращивать и усиливать конкурентоспособность наших товаров, а значит, надо увеличивать производство. И Евразия агро во главе с Айболатом Ахмадиевичем - лучшая компания для помощи нам в этом нелегком деле\"",
+      "name": "Елбасы"
+    }
+  ],
+  "Contact": {
+    "address": " 50.967131 сш, 42.342453 вд",
+    "phone": " +1 123 456 1234",
+    "email": " info@eurasia-agro.com"
+  }
+}

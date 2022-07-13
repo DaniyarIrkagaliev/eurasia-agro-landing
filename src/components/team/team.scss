@@ -1,0 +1,35 @@
+@import url(/src/styles/text.scss);
+
+.team{
+  padding-bottom: 90px;
+  padding-top: 90px;
+  background-color: #F7F7F7;
+
+  align-content: center;
+  text-align: center !important;
+  h2{
+    color: rgb(79, 79, 79);
+  }
+  h4 {
+    margin: 5px 0;
+    color: rgb(41,74,37);
+  }
+  p{
+    color: rgba(28,51,26,1);
+
+  }
+  .team-img {
+    width: 240px;
+    border-radius: 50%;
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.68);
+  }
+  .thumbnail {
+    background: transparent;
+    border: 0;
+    .caption {
+      padding: 10px 0 0;
+      color: rgb(0, 0, 0);
+    }
+  }
+}

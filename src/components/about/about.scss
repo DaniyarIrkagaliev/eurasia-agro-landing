@@ -1,0 +1,35 @@
+@import url(/src/styles/text.scss);
+.about{
+
+  background: rgb(41,74,37);
+  background: linear-gradient(0deg,
+          rgba(41,74,37,1) 0%, rgba(28,51,26,1) 100%);
+  padding: 100px 0;
+  .img-about {
+    width: 520px;
+    margin-top: 10px;
+    background: #fff;
+    border-right: 0;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
+  }
+  h4{
+    text-align: start!important;
+  }
+  .section-title{
+    .about-text li{
+      color: #F7F7F7;
+      margin-bottom: 6px;
+      margin-left: 6px;
+      list-style: none;
+      padding: 0;
+      &:before{
+        content: "\f00c";
+        font-family: "FontAwesome";
+        color: rgb(26, 188, 156);
+        font-size: 11px;
+        font-weight: 300;
+        padding-right: 8px;
+      }
+    }
+  }
+}

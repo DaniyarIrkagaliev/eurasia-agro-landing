@@ -1,0 +1,38 @@
+.head{
+  display: table;
+  height: 78vh;
+  min-width: 99.9%;
+  background: #e5e5e5 url(../../../public/images/header/header-xl.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  .overlay {
+    background: rgb(28,51,26);
+    background: linear-gradient(0deg, rgba(41,74,37,1) 0%, rgba(59,62,59,0.36) 20%);
+    min-height: 100%;
+  }
+  h2 {
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+    color: #fff;
+    font-size: 82px;
+    font-weight: 700;
+  }
+  p {
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 30px;
+    margin: 0 auto 60px;
+  }
+}
+
+.intro-text {
+  padding-top: 20vh;
+  padding-bottom: 10vh;
+  margin: auto;
+  text-align: center;
+  text-shadow: 1px 1px 1px #000;
+}

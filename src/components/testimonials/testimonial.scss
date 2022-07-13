@@ -1,0 +1,43 @@
+@import url(/src/styles/text.scss);
+
+.testimonial-box {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  background: rgba(0, 0, 0, 0.36);
+
+  .testimonial{
+    position: relative;
+    padding: 20px;
+
+
+      .testimonial-image {
+        float: left;
+        margin-right: 15px;
+
+        img{
+          display: block;
+          width: 64px;
+          height: 64px;
+          border-radius: 50%;
+        }
+      }
+    .testimonial-content {
+      position: relative;
+      overflow: hidden;
+      p {
+        margin-bottom: 0;
+        font-size: 14px;
+        font-style: italic;
+      }
+      .testimonial-author {
+        margin-top: 10px;
+        font-size: 15px;
+        font-weight: 600;
+        color: #F7F7F7;
+      }
+    }
+  }
+
+
+
+}

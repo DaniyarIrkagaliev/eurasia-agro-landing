@@ -1,0 +1,33 @@
+.footer-bg {
+  width: 100%;
+  padding: 100px 0 60px;
+  background: rgba(28,51,26,1);
+  background: linear-gradient(0deg, rgba(28,51,26,1) 0%,
+          rgba(41,74,37,1) 100%);
+  color: rgb(0, 0, 0);
+  span{
+    color: #F7F7F7;
+  }
+  h2{
+    color: #F7F7F7;
+    text-align: start!important;
+    margin-bottom: 5px!important;
+  }
+  i{
+    color: rgb(0, 0, 0);
+  }
+  p{
+    color: #cccccc;
+  }
+
+}
+.dev-contact{
+  padding-top: 10px;
+  background: #0E180DFF;
+  p{
+    color: #F7F7F7;
+  }
+  a{
+    color: #80c4ff;
+  }
+}
