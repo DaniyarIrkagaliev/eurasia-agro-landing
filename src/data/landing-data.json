@@ -1,18 +1,13 @@
 {
   "About": {
-    "paragraph": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab cum ipsa, modi nemo repudiandae tenetur vitae! Alias aperiam asperiores deleniti, excepturi explicabo fugit impedit perspiciatis quasi reiciendis, rem reprehenderit, vero!",
-
+    "paragraph": "Компания была основана в 2010 году Айболатом Ахмадинвичем. Все начиналось с маленького офиса, а теперь это транснациональная компания с мировым именем, с которой сотрудничают крупные вендоры и личности. Компания является сертифицированным официальным дилером различных фирм. \n"Евразия Агро" - лидер в отрасли розничной торговли сельско-хозяйственных продуктов таких компаний как Syngenta, Bayer, Euralis и другие. \n«Евразия Агро» предлагает сельхозпроизводителям широкий ассортимент средств защиты растений, гибридов подсолнечника и кукурузы, семян овощных культур, а также средства ухода за техникой и их запасные части. "
     "Why": [
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+      "Мы являемся официальным дилером огромного количества ведущих мировых сельхоз компаний",
+      "Мы имеем огромный каталог предоставляемых товаров"
     ],
     "Why2": [
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+      "Наши цены - одни из самых низких на рынке",
+"Помимо купленного товара клиент получает накопленный нами за долгие года работы опыт в виде рекомендаций и советов"
     ]
   },
   "Gallery": [
