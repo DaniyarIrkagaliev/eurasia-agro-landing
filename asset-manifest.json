@@ -1,16 +1,14 @@
 {
   "files": {
     "main.css": "/eurasia-agro-landing/static/css/main.ba3331eb.css",
-    "main.js": "/eurasia-agro-landing/static/js/main.0d610663.js",
-    "static/js/787.6bd106d7.chunk.js": "/eurasia-agro-landing/static/js/787.6bd106d7.chunk.js",
+    "main.js": "/eurasia-agro-landing/static/js/main.05f2673b.js",
     "static/media/header-xl.jpg": "/eurasia-agro-landing/static/media/header-xl.467b5b7601460981ad29.jpg",
     "index.html": "/eurasia-agro-landing/index.html",
     "main.ba3331eb.css.map": "/eurasia-agro-landing/static/css/main.ba3331eb.css.map",
-    "main.0d610663.js.map": "/eurasia-agro-landing/static/js/main.0d610663.js.map",
-    "787.6bd106d7.chunk.js.map": "/eurasia-agro-landing/static/js/787.6bd106d7.chunk.js.map"
+    "main.05f2673b.js.map": "/eurasia-agro-landing/static/js/main.05f2673b.js.map"
   },
   "entrypoints": [
     "static/css/main.ba3331eb.css",
-    "static/js/main.0d610663.js"
+    "static/js/main.05f2673b.js"
   ]
 }
